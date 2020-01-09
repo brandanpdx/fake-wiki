@@ -1,0 +1,12 @@
+body {
+  margin-left: 200px;
+}
+
+ul {
+  text-align: right;
+  list-style-position: inside;
+}
+
+.header-lists {
+  text-align: right;
+}
