@@ -2,7 +2,7 @@
 
 #### _Attempt to recreate the Wikipedia Homepage_, 9 January 2020_
 
-#### By _**Brandan Sayarath and Jason Rollins**_
+#### By _**Brandan Sayarath and Jason Stocks**_
 
 ## Description
 
@@ -26,4 +26,4 @@ _Used basic Bootstrap classes to practice styling HTML elements_
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2020 **_Brandan Sayarath and Jason Rollins_**
+Copyright (c) 2020 **_Brandan Sayarath and Jason Stocks_**
