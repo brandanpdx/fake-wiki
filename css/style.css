@@ -10,3 +10,11 @@ ul {
 .header-lists {
   text-align: right;
 }
+
+* {
+  /* border: 2px solid black; */
+}
+
+p {
+  max-width: 200px;
+}
