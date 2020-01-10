@@ -8,7 +8,7 @@ ul {
 }
 
 .header-lists {
-  text-align: right;
+  text-align:right; 
 }
 
 * {
@@ -16,6 +16,6 @@ ul {
 }
 
 p {
-  max-width: 200px;
+  max-width: 2000px;
 }
 
